@@ -6,6 +6,8 @@
 
 📗 I’m learning Unity, Unreal Engine
 
+💡 To contract me: os2dr@naver.com, wpgur2233@gmail.com
+
 </br>
 
 ## 🔥Skills
