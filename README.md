@@ -6,8 +6,6 @@
 
 📗 I’m learning Unity, Unreal Engine
 
-📗 I’m web programming
-
 </br>
 
 ## 🔥Skills
@@ -32,3 +30,8 @@
 > and also
 
 <img alt="Static Badge" src="https://img.shields.io/badge/DOCKER-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
+
+</br>
+</br>
+
+![alis7430's github stats](https://github-readme-stats.vercel.app/api?username=alis7430&show_icons=true&theme=highcontrast)
